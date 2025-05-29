@@ -3,7 +3,7 @@ Web-based Application for Price Tracking and Price Comparisons
 **Web-based Application for Price Tracking and Price Comparisons**  
 
 This web-based application is designed to empower users to make informed purchasing decisions by providing real-time price tracking and comparison features across multiple e-commerce platforms. The platform caters to online shoppers seeking the best deals by offering a user-friendly interface, seamless functionality, and robust data analytics.  
-
+![Fake News Detector Screenshot](assets/compare.png)
 ### **Key Features**:  
 1. **Price Tracking**:  
    - Track the price trends of products over time.  
